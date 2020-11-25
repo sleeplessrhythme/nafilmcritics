@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Not Actually Film Critics</title>
+    <link>https://www.apple.com/itunes/podcasts/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2020 Not Actually Film Critics</copyright>
+    <itunes:author>The GH Gang</itunes:author>
+    <description>
+      A podcast where not actual film critics critique actual films. Each week, join me Izzy, and my friends Mox, Gibbs, 
+      and Zea as we talk about random stuff, watch movies together and review them. For every episode, we take turns picking 
+      movies that fit within a theme. Sometime's we will even release a SyncTrack of us watching the movie together, so you 
+      can sync it up to your viewing of the movie and feel like you're one of us!
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>GH Gang</itunes:name>
+      <itunes:email>nafilmcritics@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
+    />
+    <itunes:category text="TV & Film">
+      <itunes:category text="Film Reviews"/>
+    </itunes:category>
+    <itunes:explicit>true</itunes:explicit>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>"Water" Theme: The Shape of Water - Loving yourself and your water god in the tub</title>
+      <description>
+        Join us for Zea's pick this week! Guillermo del Toro's The Shape of Water, is one of the most beautiful and surreal romance films we've seen. 
+      </description>
+      <enclosure
+        length="112993897" 
+        type="audio/mpeg" 
+        url="https://drive.google.com/file/d/1basiELBnGwftraDwD5Kdsep72-9WI2Kc/view?usp=sharing"
+      />
+      <guid>https://drive.google.com/file/d/1basiELBnGwftraDwD5Kdsep72-9WI2Kc/view?usp=sharing</guid>
+      <pubDate>Tue, 07 May 2019 12:00:00 GMT</pubDate>
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
